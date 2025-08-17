@@ -13,5 +13,5 @@
 ## PC
  * AMD Ryzen 9 7900 12core + AMD RX 7700xt + 32GB ddr5 + B650 GAMING PLUS WIFI AM5 + W11 Pro
  * Linux Ubuntu - Dell 7490 i5 8350 + 24GB ddr4
- * Raspbery OS - Raspbery pi 4 - 8GB
+ * Raspberry OS - Raspberry Pi 4 - 8GB
  * Macbook Air m1 - 8GB
